@@ -1,0 +1,7 @@
+{
+  "name": "zeecomedia-brevo-functions",
+  "version": "1.0.0",
+  "description": "Netlify Functions that send Zeecomedia website form submissions via Brevo.",
+  "private": true,
+  "license": "ISC"
+}
